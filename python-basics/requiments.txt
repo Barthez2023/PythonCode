@@ -1,0 +1,3 @@
+Dans ce fichier nous allons recenser les biblitheques necesqire
+
+- ipykernel
