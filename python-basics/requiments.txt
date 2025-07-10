@@ -1,3 +1,4 @@
 Dans ce fichier nous allons recenser les biblitheques necessaire
 
 - ipykernel
+- numpy   ### Package numpy est utiliser pour la manupulation des liste ,array
