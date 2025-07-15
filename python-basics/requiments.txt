@@ -2,3 +2,5 @@ Dans ce fichier nous allons recenser les biblitheques necessaire
 
 - ipykernel
 - numpy   ### Package numpy est utiliser pour la manupulation des liste ,array
+- pandas
+-!pip install pandas :permet d'installer une biblitheques dans le notebook Jupyte
