@@ -1,0 +1,12 @@
+2025-07-17 22:17:08-ArithmeticApp-DEBUG-Adding 10+15 is :25
+2025-07-17 22:17:08-ArithmeticApp-DEBUG-Subtracting 15-10 is :5
+2025-07-17 22:17:08-ArithmeticApp-DEBUG-Multiplyting 10*15 is :150
+2025-07-17 22:17:08-ArithmeticApp-DEBUG-Dividing 20/2 is :10.0
+2025-07-17 22:18:34-ArithmeticApp-DEBUG-Adding 10+15 is =25
+2025-07-17 22:18:34-ArithmeticApp-DEBUG-Subtracting 15-10 is =5
+2025-07-17 22:18:34-ArithmeticApp-DEBUG-Multiplyting 10*15 is =150
+2025-07-17 22:18:34-ArithmeticApp-DEBUG-Dividing 20/2 is =10.0
+2025-07-17 22:20:32-ArithmeticApp-DEBUG-Adding 10+15 is =25
+2025-07-17 22:20:32-ArithmeticApp-DEBUG-Subtracting 15-10 is =5
+2025-07-17 22:20:32-ArithmeticApp-DEBUG-Multiplyting 10*15 is =150
+2025-07-17 22:20:32-ArithmeticApp-ERROR-Division by zero error

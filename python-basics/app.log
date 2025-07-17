@@ -1,0 +1,17 @@
+2025-07-17 21:08:27-root-DEBUG-This a debug message
+2025-07-17 21:08:27-root-INFO-This is a info message
+2025-07-17 21:08:27-root-WARNING-This is a warming message
+2025-07-17 21:08:27-root-ERROR-This is a error message
+2025-07-17 21:08:27-root-CRITICAL-This is a critical messagae
+2025-07-17 21:56:41-module1-DEBUG-This a debug message for module 1
+2025-07-17 21:56:41-module2-WARNING-This is a warming message for module 2
+2025-07-17 21:56:41-module2-ERROR-This is a error message
+2025-07-17 21:56:47-module1-DEBUG-This a debug message for module 1
+2025-07-17 21:56:47-module2-WARNING-This is a warming message for module 2
+2025-07-17 21:56:47-module2-ERROR-This is a error message
+2025-07-17 21:56:59-module1-DEBUG-This a debug message for module 1
+2025-07-17 21:56:59-module2-WARNING-This is a warming message for module 2
+2025-07-17 21:56:59-module2-ERROR-This is a error message
+2025-07-17 21:57:12-module1-DEBUG-This a debug message for module 1
+2025-07-17 21:57:12-module2-WARNING-This is a warming message for module 2
+2025-07-17 21:57:12-module2-ERROR-This is a error message
