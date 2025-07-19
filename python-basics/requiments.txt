@@ -5,3 +5,6 @@ Dans ce fichier nous allons recenser les biblitheques necessaire
 - pandas
 -!pip install pandas :permet d'installer une biblitheques dans le notebook Jupyte
 -openpyxl  permet d'installe la biblitheque pour la lecture des fichier excel
+-!pip install matplotlib  pour la creation des graphique
+-!pip install seaborn pour la visualisation des boxplot
+-!pip install skimage pour la visualisation des images
