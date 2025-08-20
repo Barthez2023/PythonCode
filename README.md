@@ -19,3 +19,9 @@ Jupyet notebook a pour instention ***ipynb***
 ***pip install ipykernel*** permet d'installer le ipykernel. Le module Python ipykernel  est essentiel pour exécuter du code Python dans Jupyter Notebook ou JupyterLab.C'est le ***noyau d’exécution Python*** que Jupyter utilise.
 Quand on lance une cellule dans Jupyter, c’est le kernel qui exécute ton code.
 Sans ipykernel, tu ne peux pas faire fonctionner Jupyter avec Python.
+
+
+
+
+
+
